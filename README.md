@@ -22,3 +22,8 @@ Curso sobre Testes na prática
 *Inicializar lib*
 - npm init
 - Criar package
+
+*Pacote gitignore*
+- npm install gitignore -g
+- gitignore -types (*Listagem dos tipos*)
+- gitignore rails (**)
