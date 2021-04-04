@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Curso sobre Testes na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmartinsl/js-tdd-course.git"
+  },
+  "keywords": [
+    "lib",
+    "library",
+    "package"
+  ],
+  "author": "Lucas Martins <lucasmartiinslima@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmartinsl/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/lmartinsl/js-tdd-course#readme"
+}
